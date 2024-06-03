@@ -1,5 +1,7 @@
-# GreatSaiyaman
-「Three.js」を使ったグレートサイヤマンが回ってるだけのWebページ
+## Three.js Practice
 
-## Skill
-- Three.js
+`Three.js`を使ったグレートサイヤマンが回ってるだけの Web ページ
+
+### Skill
+
+- [Three.js](https://threejs.org/)
